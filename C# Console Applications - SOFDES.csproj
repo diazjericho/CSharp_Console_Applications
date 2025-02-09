@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>C__Console_Applications___SOFDES</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <StartupObject>C__Console_Applications___SOFDES.examples.BasicSyntax</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="activities\actual\" />
+    <Folder Include="activities\practice\" />
+    <Folder Include="quizzes\" />
+  </ItemGroup>
+
+</Project>
