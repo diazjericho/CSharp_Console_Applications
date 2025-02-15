@@ -6,12 +6,12 @@
     <RootNamespace>C__Console_Applications___SOFDES</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>C__Console_Applications___SOFDES.examples.BasicSyntax</StartupObject>
+    <StartupObject>C__Console_Applications___SOFDES.activities.practice.Practice_AdvancedSyntax</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
     <Folder Include="activities\actual\" />
-    <Folder Include="activities\practice\" />
+    <Folder Include="examples\classes\advanced\" />
     <Folder Include="quizzes\" />
   </ItemGroup>
 
